@@ -8,8 +8,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Bank App',
-  description: 'تطبيق بنكي حديث وآمن',
+  title: 'عقارات مصر - منصة العقارات الأولى',
+  description: 'منصة عقارات مصر الأولى للبيع والإيجار - شقق، فيلات، محلات، أراضي',
   generator: 'v0.app',
   icons: {
     icon: [
